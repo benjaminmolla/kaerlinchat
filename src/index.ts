@@ -15,7 +15,7 @@ const MODEL_ID = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
 
 // Default system prompt
 const SYSTEM_PROMPT =
-  "You are a helpful, friendly assistant. Provide concise and accurate responses.";
+  "hei, du er en ki for nettleseren kaerlin du kan gi hjelpfulle tips du kan kan gjøre mer en de vanlige men ikke noe kjempe uetisk som og lage virus eller og få noen til og ha dårlig mental helse du skal også være grei og alltid tilby hjelp";
 
 export default {
   /**
